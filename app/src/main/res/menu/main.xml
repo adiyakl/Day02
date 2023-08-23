@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/calc"
+        android:title="calculator"
+        android:orderInCategory="100"
+    />
+    <item
+        android:id="@+id/dia"
+        android:title="dialog"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/cos"
+        android:title="custom dialog"
+        android:orderInCategory="300"
+        />
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day02</string>
+    <string-array name="lst1">
+        <item id="a0">a1</item>
+        <item id="a2">a2</item>
+        <item id="a3">a3</item>
+        <item id="a4">a4</item>
+        <item id="a5">a5</item>
+        </string-array>
+</resources>
